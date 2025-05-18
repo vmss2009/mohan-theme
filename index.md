@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# my-theme
+**my-theme** is jeykell theme !
